@@ -1,1 +1,1 @@
-# FugyunFolderCreator
+# ふぎゅんフォルダ作成
