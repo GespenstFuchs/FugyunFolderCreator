@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|c:\\users\\fugyu\\source\\repos\\fugyunfoldercreator\\fugyunfoldercreator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|solutionrelative:fugyunfoldercreator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\fugyunfoldercreator\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|solutionrelative:fugyunfoldercreator\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\fugyunfoldercreator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|solutionrelative:fugyunfoldercreator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\fugyunfoldercreator\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|solutionrelative:fugyunfoldercreator\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\fugyunfoldercreator\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|solutionrelative:fugyunfoldercreator\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\fugyunfoldercreator\\textboxhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F5ED7-1D0F-4710-954A-F8F7738EA2C2}|FugyunFolderCreator\\FugyunFolderCreator.csproj|solutionrelative:fugyunfoldercreator\\textboxhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "FugyunFolderCreator\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "FugyunFolderCreator\\CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:19:52.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextBoxHistory.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\TextBoxHistory.cs",
+              "RelativeDocumentMoniker": "FugyunFolderCreator\\TextBoxHistory.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\TextBoxHistory.cs",
+              "RelativeToolTip": "FugyunFolderCreator\\TextBoxHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:43:32.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "FugyunFolderCreator\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\CustomMessageBox.cs",
+              "RelativeToolTip": "FugyunFolderCreator\\CustomMessageBox.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAYwNIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:35:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Const.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\Const.cs",
+              "RelativeDocumentMoniker": "FugyunFolderCreator\\Const.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\Const.cs",
+              "RelativeToolTip": "FugyunFolderCreator\\Const.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:09:33.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\MainForm.cs",
+              "RelativeDocumentMoniker": "FugyunFolderCreator\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\MainForm.cs",
+              "RelativeToolTip": "FugyunFolderCreator\\MainForm.cs",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAUwOICAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:28:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\MainForm.cs",
+              "RelativeDocumentMoniker": "FugyunFolderCreator\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunFolderCreator\\FugyunFolderCreator\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "FugyunFolderCreator\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:18:04.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

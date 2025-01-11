@@ -1,0 +1,11 @@
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\bin\Release\ふぎゅんフォルダ作成.exe.config
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\bin\Release\ふぎゅんフォルダ作成.exe
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\bin\Release\ふぎゅんフォルダ作成.pdb
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\FugyunFolderCreator.csproj.AssemblyReference.cache
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\FugyunFolderCreator.CustomMessageBox.resources
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\FugyunFolderCreator.MainForm.resources
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\FugyunFolderCreator.Properties.Resources.resources
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\FugyunFolderCreator.csproj.GenerateResource.cache
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\FugyunFolderCreator.csproj.CoreCompileInputs.cache
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\ふぎゅんフォルダ作成.exe
+C:\Users\fugyu\source\repos\FugyunFolderCreator\FugyunFolderCreator\obj\Release\ふぎゅんフォルダ作成.pdb
